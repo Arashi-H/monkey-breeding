@@ -100,7 +100,7 @@ To check out all their CryptoMonkey NFTs, the user can navigate to the gallery, 
 
 ### Multiply
 
-Here a user can combine two CryptoMonkey NFTs that they own to create a third “child” CryptoMonkey NFT. The new NFT’s DNA will consist of randomly combined traits from their “parents”, as well as one randomly generated trait, that is new and different. Their generation will depend on their parents’ generations. (To find out more about this mechanism you can check the [_calcGeneration function](https://github.com/ctrl030/CryptoMonkeys-V2/blob/main/contracts/MonkeyContract.sol))
+Here a user can combine two CryptoMonkey NFTs that they own to create a third “child” CryptoMonkey NFT. The new NFT’s DNA will consist of randomly combined traits from their “parents”, as well as one randomly generated trait, that is new and different. Their generation will depend on their parents’ generations.
 
 **Note:** The user will need the ERC20 BananaToken and allow the main smart contract to handle them, so that they can pay for the breeding of NFTs. Check the [NFT Creation](#nft-creation) section to see how to do this.
 
